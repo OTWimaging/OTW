@@ -29,7 +29,10 @@
     "versionFirst": "4.5.4",
     "uniqCompNum": 30,
     "versionPublish": "4.5.4",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "favicon": "",
+    "noImageResize": "",
+    "cookiesAlert": ""
   },
   "pages": {
     "index.html": {
@@ -277,7 +280,7 @@
           "number3": "<p>3</p>",
           "title3": "How We Can Help",
           "subtitle3": "Awesome",
-          "text3": "With an experienced production team we are able to advise on the correct display solution for your requirement – whether that be an exhibition, retail environment, shopping centre, property development, hoarding or vehicle livery.<br>We operate a UK wide installation team, meaning that multiple site installations can be deployed quickly and cost effectively across the country.<br><br>With all the required accreditation, ISO 14001 &amp; 9001. All installation teams are CSCS, IPAF &amp; PASMA certified.<br>",
+          "text3": "With an experienced production team we are able to advise on the correct display solution for your requirement – whether that be an exhibition, retail environment, shopping centre, property development, hoarding<br>or vehicle livery.<br>We operate a UK wide installation team, meaning that multiple site installations can be deployed quickly and cost effectively across<br>&nbsp;the country.<br><br>With all the required accreditation, ISO 14001 &amp; 9001. All installation teams are CSCS, IPAF &amp; PASMA certified.<br>",
           "button3": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
           "media4": {
             "iconFont": {
