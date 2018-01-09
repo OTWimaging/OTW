@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "OTW Prelim",
-    "currentPage": "index.html",
+    "currentPage": "page2.html",
     "theme": {
       "name": "directm",
       "title": "DirectM",
@@ -27,7 +27,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.5.4",
-    "uniqCompNum": 30,
+    "uniqCompNum": 33,
     "versionPublish": "4.5.4",
     "screenshot": "screenshot.png",
     "favicon": "",
@@ -182,7 +182,7 @@
             "fontColor": "#74a3c7",
             "fontHoverColor": "#2b4484"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Services</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Artwork Upload and Guides</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html#features18-r\">Artwork Guide &amp; Upload</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#gallery1-j\">Graphic Production &amp; Installation</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Building Wraps + Event Branding</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#gallery1-j\">Hoarding &amp; Vehicle Livery<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#gallery1-j\">Corporate Interior Branding<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#gallery1-j\">Signage – Production &amp; Installation<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#gallery1-j\">3D Bespoke Display<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features12-b\">Point of Sale Production<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\" aria-expanded=\"false\" target=\"_blank\">How To Find Us</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"tel:+44-1263-738868\" aria-expanded=\"false\">+441263 738868</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"tel:+441263 738868\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-lg btn btn-info\" href=\"mailto:rachel@otwimaging.co.uk\">Contact</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Services</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Artwork Upload and Guides</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html#features18-r\">Artwork Guide &amp; Upload</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#gallery1-j\">Graphic Production &amp; Installation</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Building Wraps + Event Branding</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#gallery1-j\">Hoarding &amp; Vehicle Livery<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#gallery1-j\">Corporate Interior Branding<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#gallery1-j\">Signage – Production &amp; Installation<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#gallery1-j\">3D Bespoke Display<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features12-b\">Point of Sale Production<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"false\" target=\"_blank\">How To Find Us</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"tel:+44-1263-738868\" aria-expanded=\"false\">+441263 738868</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"tel:+441263 738868\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-lg btn btn-info\" href=\"mailto:rachel@otwimaging.co.uk\">Contact</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -656,7 +656,7 @@
             "fontColor": "#74a3c7",
             "fontHoverColor": "#2b4484"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Services</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Artwork Upload and Guides</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html#features18-r\">Artwork Guide &amp; Upload</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#gallery1-j\">Graphic Production &amp; Installation</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Building Wraps + Event Branding</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#gallery1-j\">Hoarding &amp; Vehicle Livery<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#gallery1-j\">Corporate Interior Branding<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#gallery1-j\">Signage – Production &amp; Installation<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#gallery1-j\">3D Bespoke Display<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features12-b\">Point of Sale Production<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\" aria-expanded=\"false\" target=\"_blank\">How To Find Us</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"tel:+44-1263-738868\" aria-expanded=\"false\">+441263 738868</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"tel:+441263 738868\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-lg btn btn-info\" href=\"mailto:rachel@otwimaging.co.uk\">Contact</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Services</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Artwork Upload and Guides</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html#features18-r\">Artwork Guide &amp; Upload</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#gallery1-j\">Graphic Production &amp; Installation</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Building Wraps + Event Branding</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#gallery1-j\">Hoarding &amp; Vehicle Livery<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#gallery1-j\">Corporate Interior Branding<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#gallery1-j\">Signage – Production &amp; Installation<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#gallery1-j\">3D Bespoke Display<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features12-b\">Point of Sale Production<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"false\" target=\"_blank\">How To Find Us</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"tel:+44-1263-738868\" aria-expanded=\"false\">+441263 738868</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"tel:+441263 738868\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-lg btn btn-info\" href=\"mailto:rachel@otwimaging.co.uk\">Contact</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -734,6 +734,166 @@
             }
           },
           "_anchor": "footer1-n"
+        }
+      ]
+    },
+    "page2.html": {
+      "settings": {
+        "title": "map",
+        "order": 1
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-toggler": {
+              "color": "#74a3c7"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#74a3c7"
+            },
+            ".link, .dropdown-item": {
+              "color": "#74a3c7",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            },
+            ".link": {
+              "font-size": "0.8125rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.880rem"
+            },
+            ".link:hover, .link:focus": {
+              "color": "#2b4484"
+            },
+            ".dropdown-item:hover::before, .dropdown-item:focus::before": {
+              "background": "#2b4484"
+            },
+            ".dropdown-item:hover, .dropdown-item:focus": {
+              "color": "#74a3c7"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#f7f7f7!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#fff"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#74a3c7",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "#2b4484"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#2b4484!important"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#fff",
+            "fontSize": 0.8125,
+            "imageSize": "5",
+            "fontName": {
+              "name": "Montserrat",
+              "css": "'Montserrat', sans-serif",
+              "link": "https://fonts.googleapis.com/css?family=Libre+Franklin:400,400i,600,600i",
+              "url": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            },
+            "fontColor": "#74a3c7",
+            "fontHoverColor": "#2b4484"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Services</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Artwork Upload and Guides</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html#features18-r\">Artwork Guide &amp; Upload</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#gallery1-j\">Graphic Production &amp; Installation</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Building Wraps + Event Branding</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#gallery1-j\">Hoarding &amp; Vehicle Livery<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#gallery1-j\">Corporate Interior Branding<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#gallery1-j\">Signage – Production &amp; Installation<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#gallery1-j\">3D Bespoke Display<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features12-b\">Point of Sale Production<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"false\" target=\"_blank\">How To Find Us</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"tel:+44-1263-738868\" aria-expanded=\"false\">+441263 738868</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"tel:+441263 738868\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-lg btn btn-info\" href=\"mailto:rachel@otwimaging.co.uk\">Contact</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/otw-logo-new-red-208x128.jpg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "mailto:enquiries@otwimaging.co.uk",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">OTW IMAGING<br></a>",
+          "buttons": "<a class=\"btn btn-info\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type text\">Download now</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu1",
+          "_anchor": "menu1-u"
+        },
+        {
+          "_params": {
+            "googleMap": {
+              "address": "Units 2 & 3\nShepheards Close\nAylsham Business Estate\nAylsham\nNR11 6SZ",
+              "placeId": "ChIJwY2bB0Bc10cRm8tn-MCCOTg",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "map1",
+          "_anchor": "map1-w"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "columns": "3",
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#fcfdff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=7LDRrdD-Qww"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.4
+          },
+          "list": "<ul><li><a href=\"\">Bootstrap 4</a></li><li><a href=\"\">Responsive</a></li><li><a href=\"\">Web Fonts</a></li><li><a href=\"\">Unlimited Sites</a></li><li><a href=\"\">Google</a></li><li><a href=\"\">Node</a></li></ul>",
+          "title1": "OTW imaging",
+          "title2": "",
+          "title3": "Legal",
+          "title4": "For Students",
+          "text1": "Units 2 &amp; 3<br>Shepheards Close<br>Aylsham Business Estate<br>Aylsham<br>NR11 6SZ<br>t: 01263 738868<br>f: 01263 732950<br>enquiries@otwimaging.co.uk<br>",
+          "text2": "",
+          "text3": "Company registered in England<br>No. 3486744<br>Registered name: OTW Imaging Ltd<br>Registered office: Waterloo House<br>17 Waterloo Road, Norwich. NR3 1EH<br>© Copyright 2014 OTW Imaging Ltd.<br>All Rights Reserved.<br>",
+          "text4": "<a href=\"http://mobirise.com\">Lorem ipsum.</a><br /><a href=\"http://mobirise.com\">Excepturi, consectetur.</a><br /><a href=\"http://mobirise.com\">Similique, debitis.</a><br /><a href=\"http://mobirise.com\">Cum, ea!</a><br /><a href=\"http://mobirise.com\">Asperiores, at.</a><br /><a href=\"http://mobirise.com\">Obcaecati, molestias.</a>",
+          "copy": "<a href=\"#top\">OTWimaging, 2018</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            ".card-text": {
+              "font-size": "11px"
+            }
+          },
+          "_anchor": "footer1-v"
         }
       ]
     }
